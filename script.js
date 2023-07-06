@@ -34,15 +34,3 @@ loop: true
 });
 
 
-document.onkeydown = function(a)
-    {
-        if(a.ctrlKey && a.KeyCode==85)
-        {
-            alert('hello')
-            return false;
-        }
-        else if(b.ctrlKey && b.shiftKey && b.keyCode==73)
-         {
-            return false;
-        }
-    }
