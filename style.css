@@ -44,16 +44,11 @@ header{
 }
 .logo:hover{
     color:#FF2171;
-    /* background-color: rgba(0, 0, 0, 0.9); */
-    /* box-shadow: 0 0 1rem aqua; */
 }
 .menu-bar a{
     font-size: 1.5rem;
     margin-left: 3.5rem;
     transition: 0.4s ease;
-    /* cursor: pointer; */
-
-
 }
 .menu-bar a:hover{
     color:aqua;
@@ -77,8 +72,6 @@ section{
 }
 span{
     color:aqua;
-    /* background-color: #000; */
-    /* box-shadow: 0 0 1rem aqua; */
 }
 .home-bio h1{
     font-size: 3.5rem;
@@ -115,8 +108,6 @@ span{
     justify-content: center;
     border-radius: 50%;
     transition: 0.4s ease;
-
-
 }
 .social-media a:hover{
     color:#FF2171;
@@ -261,7 +252,6 @@ span{
     color:aqua;
     background: #000;
     box-shadow: 0 0 2rem aqua;
-   /* transition: 0.4s all ease; */
 }
 /*  contacts section */
 .contact{
@@ -301,9 +291,6 @@ hr{
         font-size: 60%;
     }
 }
-
-
-
 @media (max-width: 992px){
     .header{
         padding:2rem 4%;
@@ -312,9 +299,6 @@ hr{
         width:40vw;
     }
 }
-
-
-
 @media (max-width: 767px){
     #menu-btn{
         display:block;
@@ -348,9 +332,6 @@ hr{
         grid-template-columns: repeat(2,1fr);
     }
 }
-
-
-
 @media (max-width: 620px){
 
     .skills-items{
@@ -363,8 +344,6 @@ hr{
         font-size: 2.7rem;
     }
 }
-
-
 @media (max-width: 450px){
     html{
         font-size: 50%;
