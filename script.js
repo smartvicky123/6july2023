@@ -33,7 +33,7 @@ backDelay: 600,
 loop: true
 });
 
-/*
+
 document.onkeydown = function(a)
     {
         if(a.ctrlKey && a.KeyCode==85)
@@ -45,4 +45,4 @@ document.onkeydown = function(a)
          {
             return false;
         }
-    }*/
+    }
